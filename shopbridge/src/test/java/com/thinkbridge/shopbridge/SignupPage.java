@@ -18,7 +18,17 @@ public class SignupPage extends BaseClass {
 
 		logger.info("URL Opened");
 		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
-
+        
+		if(driver.getTitle().equals("Jabatalks")) 
+		{
+			Assert.assertTrue(true);
+			
+		}
+		
+		else {
+		   capturescreenshot(driver, "logintest");
+		   Assert.assertTrue(false);
+		}
 		SignUp sup = new SignUp(driver);
 
 		
@@ -43,6 +53,8 @@ public class SignupPage extends BaseClass {
         logger.info("Terms and condition checkbox checked"); 
 		//sup.getstarted();
 		logger.info("Get statred button clicked");
+		
+		
 
 	}
 

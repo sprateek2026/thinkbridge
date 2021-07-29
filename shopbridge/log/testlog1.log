@@ -157,3 +157,75 @@
 2021-07-28 18:07:22,336 [main] INFO shopbridge - Username Organisation and Email Entered
 2021-07-28 18:07:32,405 [main] INFO shopbridge - Terms and condition checkbox checked
 2021-07-28 18:07:32,405 [main] INFO shopbridge - Gettinf statred button clicked
+2021-07-29 18:53:20,717 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-29 18:53:20,897 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\91880\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-07-29 18:53:34,845 [main] INFO shopbridge - URL Opened
+2021-07-29 18:53:37,498 [main] INFO shopbridge - Username Organisation and Email Entered
+2021-07-29 18:53:47,772 [main] INFO shopbridge - Terms and condition checkbox checked
+2021-07-29 18:53:47,775 [main] INFO shopbridge - Get statred button clicked
+2021-07-29 18:59:58,665 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-29 18:59:58,691 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\91880\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-07-29 19:00:06,587 [main] INFO shopbridge - URL Opened
+2021-07-29 19:00:08,329 [main] INFO shopbridge - Username Organisation and Email Entered
+2021-07-29 19:00:18,480 [main] INFO shopbridge - Terms and condition checkbox checked
+2021-07-29 19:00:18,481 [main] INFO shopbridge - Get statred button clicked
+2021-07-29 19:02:13,938 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-29 19:02:13,967 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\91880\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-07-29 19:02:22,032 [main] INFO shopbridge - URL Opened
+2021-07-29 19:02:23,871 [main] INFO shopbridge - Username Organisation and Email Entered
+2021-07-29 19:02:33,982 [main] INFO shopbridge - Terms and condition checkbox checked
+2021-07-29 19:02:33,984 [main] INFO shopbridge - Get statred button clicked
+2021-07-29 19:10:13,581 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-29 19:10:13,621 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\91880\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-07-29 19:10:21,714 [main] INFO shopbridge - URL Opened
+2021-07-29 19:11:05,718 [main] INFO shopbridge - Username Organisation and Email Entered
+2021-07-29 19:11:26,149 [main] INFO shopbridge - Terms and condition checkbox checked
+2021-07-29 19:11:29,065 [main] INFO shopbridge - Get statred button clicked
+2021-07-29 19:17:53,367 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-29 19:17:53,405 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\91880\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-07-29 19:18:00,530 [main] INFO shopbridge - URL Opened
+2021-07-29 19:18:25,440 [main] INFO shopbridge - Username Organisation and Email Entered
+2021-07-29 19:18:35,559 [main] INFO shopbridge - Terms and condition checkbox checked
+2021-07-29 19:18:35,562 [main] INFO shopbridge - Get statred button clicked
+2021-07-29 19:37:29,031 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-29 19:37:29,052 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\91880\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-07-29 19:37:36,750 [main] INFO shopbridge - URL Opened
+2021-07-29 19:37:37,920 [main] INFO shopbridge - Username Organisation and Email Entered
+2021-07-29 19:37:47,991 [main] INFO shopbridge - Terms and condition checkbox checked
+2021-07-29 19:37:47,992 [main] INFO shopbridge - Get statred button clicked
+2021-07-29 19:48:53,240 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-29 19:48:53,262 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\91880\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-07-29 19:49:00,393 [main] INFO shopbridge - URL Opened
+2021-07-29 19:49:01,798 [main] INFO shopbridge - Username Organisation and Email Entered
+2021-07-29 19:49:11,896 [main] INFO shopbridge - Terms and condition checkbox checked
+2021-07-29 19:49:11,897 [main] INFO shopbridge - Get statred button clicked
+2021-07-29 20:42:31,484 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-29 20:42:31,514 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\91880\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-07-29 20:42:38,789 [main] INFO shopbridge - URL Opened
+2021-07-29 20:42:40,120 [main] INFO shopbridge - Username Organisation and Email Entered
+2021-07-29 20:42:50,192 [main] INFO shopbridge - Terms and condition checkbox checked
+2021-07-29 20:42:50,193 [main] INFO shopbridge - Get statred button clicked
+2021-07-29 20:44:13,058 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-29 20:44:13,078 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\91880\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-07-29 20:44:20,169 [main] INFO shopbridge - URL Opened
+2021-07-29 20:46:37,247 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-29 20:46:37,271 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\91880\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-07-29 20:46:43,323 [main] INFO shopbridge - URL Opened
+2021-07-29 20:48:49,932 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-29 20:48:49,951 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\91880\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-07-29 20:48:57,169 [main] INFO shopbridge - URL Opened
+2021-07-29 20:50:13,995 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-29 20:50:14,020 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\91880\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-07-29 20:50:20,890 [main] INFO shopbridge - URL Opened
+2021-07-29 20:52:06,808 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-29 20:52:06,835 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\91880\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-07-29 20:52:21,130 [main] INFO shopbridge - URL Opened
+2021-07-29 21:27:19,324 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-29 21:27:19,417 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\91880\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-07-29 21:27:29,341 [main] INFO shopbridge - URL Opened
+2021-07-29 21:37:07,650 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-29 21:37:07,682 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\91880\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-07-29 21:37:15,449 [main] INFO shopbridge - URL Opened
+2021-07-29 21:39:14,722 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-29 21:39:14,755 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\91880\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-07-29 21:39:22,369 [main] INFO shopbridge - URL Opened

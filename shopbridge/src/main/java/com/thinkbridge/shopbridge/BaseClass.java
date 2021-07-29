@@ -17,6 +17,8 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
+import com.aventstack.extentreports.ExtentReporter;
+
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseClass {
@@ -58,9 +60,18 @@ public class BaseClass {
 
 
 	}
+	
+	public void capturescreenshot(WebDriver driver,String tname) throws IOException {
+		
+		File srcfile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+		
+		FileUtils.copyFile(srcfile, new File(System.getProperty("user.dir")+"/Screenshots/"+tname+".png"));	
+		System.out.println("Screenshot captured");
+	}
 
 	@AfterClass
 	public void teardown() {
+	
 		driver.quit();
 	}
 
